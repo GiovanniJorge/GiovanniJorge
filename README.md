@@ -1,4 +1,4 @@
-# 👨‍💻 Giovanni Jorge
+# 👨🏻‍💻 Giovanni Jorge
 
 **`Estudante de Engenharia da Computação`**
 
