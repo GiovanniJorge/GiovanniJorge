@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia da Computação`**
 
-Me chamo Giovanni, tenho 18 anos e sou descendente de italianos, com dupla cidadania. Estudo Engenharia da Computação na Unaerp, atualmente no segundo semestre. Desde criança sou apaixonado por tecnologia, tendo iniciado com cursos de robótica e programação em Scratch. Hoje, tenho experiência em C, C++, CSS e Python, e estou aprendendo HTML. Já participei de cursos voltados à inteligência artificial, área pela qual sou profundamente interessado. Sou fluente em inglês e tenho noções de italiano e espanhol. Busco oportunidades de estágio para aplicar meus conhecimentos em projetos inovadores e contribuir com soluções de impacto.
+Me chamo Giovanni, tenho 18 anos e sou descendente de italianos, com dupla cidadania. Estudo Engenharia da Computação na Unaerp, atualmente no segundo semestre. Desde criança sou apaixonado por tecnologia, tendo iniciado com cursos de robótica e programação em Scratch. Hoje, tenho experiência em C, C++, CSS, HTML, JavaScript e Python. Já participei de cursos voltados à inteligência artificial, área pela qual sou profundamente interessado. Sou fluente em inglês e tenho noções de italiano e espanhol. Busco oportunidades de estágio para aplicar meus conhecimentos em projetos inovadores e contribuir com soluções de impacto.
 
 <p align="left">
     <a href="https://github.com/GiovanniJorge?tab=repositories&sort=stargazers">
