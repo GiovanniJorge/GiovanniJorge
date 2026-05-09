@@ -125,14 +125,14 @@ Me chamo Giovanni, tenho 19 anos e sou descendente de italianos, com dupla cidad
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GiovanniJorge&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="./profile/stats.svg" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniJorge&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="./profile/top-langs.svg"
   />
 
   ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
