@@ -36,7 +36,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=GiovanniJorge&repo=Zoratti-Estetica-Automotiva&theme=radical
+          options: username=GiovanniJorge&repo=full-stack-developer-mimo&theme=radical
           path: profile/pin-project.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
