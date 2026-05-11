@@ -1,123 +1,53 @@
-# 👨🏻‍💻 Giovanni Jorge
+<div align="center">
+<img 
+align="center" 
+src="./profile/banner.png" 
+/>
 
-**`Estudante de Engenharia da Computação`**
+<br>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/GiovanniJorge?style=for-the-badge&logo=reverbnation&logoColor=white&label=ESTRELAS&labelColor=242c34&color=7a5af5">
+    
+  <img src="https://img.shields.io/github/followers/GiovanniJorge?style=for-the-badge&logo=github&logoColor=white&label=SEGUIDORES&labelColor=242c34&color=1a5ab2">
+
+  <img src="https://img.shields.io/badge/LINKEDIN-+500%20SEGUIDORES-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=242c34">
+</p>
 
 Me chamo Giovanni, tenho 19 anos e sou descendente de italianos, com dupla cidadania. Estudo Engenharia de Computação na Unaerp, atualmente no terceiro semestre. Desde criança sou apaixonado por tecnologia, tendo iniciado com cursos de robótica e programação em Scratch. Hoje, possuo uma base sólida em C, SQL e Desenvolvimento Web, tendo concluído recentemente o curso Mimo Max (13 certificados). Atualmente, estou desenvolvendo um projeto com React, Electron e SQLite, além de ter realizado um minicurso em automação com n8n. Sou fluente em inglês e tenho noções de italiano e espanhol. Busco oportunidades de estágio para aplicar meus conhecimentos em projetos inovadores e contribuir com soluções de impacto.
 
-<p align="left">
-    <a href="https://github.com/GiovanniJorge?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GiovanniJorge?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/GiovanniJorge?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GiovanniJorge?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<br>
+
+## Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+  <img src="https://img.shields.io/badge/CSS3-187abf?style=for-the-badge&logo=css3&logoColor=white">
+
+  <img src="https://img.shields.io/badge/TypeScript-0078d1?style=for-the-badge&logo=typescript&logoColor=white">
+
+  <img src="https://img.shields.io/badge/PostgreSQL-31698a?style=for-the-badge&logo=postgresql&logoColor=white">
+
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black">
+    
+  <img src="https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=black">
+  
+  <img src="https://img.shields.io/badge/Python-f7df1e?style=for-the-badge&logo=python&logoColor=black">
+  
+  <img src="https://img.shields.io/badge/JavaScript-e5d246?style=for-the-badge&logo=javascript&logoColor=black">
+
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Swift-ef4431?style=for-the-badge&logo=swift&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Git-f24e32?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
----
+<br>
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Swift" 
-    title="Swift"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
+## Estatísticas
 
 <p>
   <img 
@@ -132,6 +62,5 @@ Me chamo Giovanni, tenho 19 anos e sou descendente de italianos, com dupla cidad
       alt="GitHub Stats" 
       src="./profile/top-langs.svg"
   />
-
-  ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 </p>
+</div>
