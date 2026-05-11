@@ -50,4 +50,12 @@ Me chamo Giovanni, tenho 19 anos e sou descendente de italianos, com dupla cidad
   &nbsp;&nbsp;
   <img src="./profile/top-langs.svg" height="200" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanniJorge/GiovanniJorge/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanniJorge/GiovanniJorge/output/github-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/GiovanniJorge/GiovanniJorge/output/github-snake.svg">
+  </picture>
+</p>
 </div>
