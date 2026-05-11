@@ -1,7 +1,7 @@
 <div align="center">
 <img 
 align="center" 
-src="./profile/banner2.png" 
+src="./profile/banner.png" 
 />
 
 <br>
