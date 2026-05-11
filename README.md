@@ -28,13 +28,13 @@ Me chamo Giovanni, tenho 19 anos e sou descendente de italianos, com dupla cidad
 
   <img src="https://img.shields.io/badge/PostgreSQL-31698a?style=for-the-badge&logo=postgresql&logoColor=white">
 
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=313131">
     
-  <img src="https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=313131">
   
-  <img src="https://img.shields.io/badge/Python-f7df1e?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-f7df1e?style=for-the-badge&logo=python&logoColor=313131">
   
-  <img src="https://img.shields.io/badge/JavaScript-e5d246?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-e5d246?style=for-the-badge&logo=javascript&logoColor=313131">
 
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white">
   
