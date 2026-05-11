@@ -1,14 +1,14 @@
 name: generate animation
 
 on:
-  # Roda automaticamente a cada 24 horas
+  # Agendamento: Roda a cada 24 horas
   schedule:
     - cron: "0 */24 * * *" 
   
-  # Permite rodar manualmente a qualquer momento
+  # Permite rodar manualmente pela aba "Actions"
   workflow_dispatch:
   
-  # Roda a cada push no branch main
+  # Roda sempre que você fizer um push no branch main
   push:
     branches:
     - main
@@ -21,9 +21,9 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Gera a animação (o trecho que você enviou)
+      # Gera as animações usando a versão Docker (evita erro de canvas)
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -31,7 +31,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
-      # Pega os arquivos gerados em 'dist' e envia para o branch 'output'
+      # Envia os arquivos gerados para o branch 'output'
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
