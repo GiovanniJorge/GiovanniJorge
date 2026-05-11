@@ -1,4 +1,4 @@
-name: generate animation
+name: Update snake game
 
 on:
   # Agendamento: Roda a cada 24 horas
