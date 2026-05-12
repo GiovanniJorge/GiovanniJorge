@@ -12,7 +12,7 @@ src="./profile/banner.png"
     
   <img src="https://img.shields.io/github/followers/GiovanniJorge?style=for-the-badge&logo=github&logoColor=white&label=SEGUIDORES&labelColor=242c34&color=1a5ab2">
 
-  <img src="https://img.shields.io/badge/LINKEDIN-+500%20SEGUIDORES-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=242c34">
+  <img src="https://img.shields.io/badge/LINKEDIN-+3500%20SEGUIDORES-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=242c34">
 </p>
 
 Me chamo Giovanni, tenho 19 anos e sou descendente de italianos, com dupla cidadania. Estudo Engenharia de Computação na Unaerp, atualmente no terceiro semestre. Desde criança sou apaixonado por tecnologia, tendo iniciado com cursos de robótica e programação em Scratch. Hoje, possuo uma base sólida em C, SQL e Desenvolvimento Web, tendo concluído recentemente o curso Mimo Max (13 certificados). Atualmente, estou desenvolvendo um projeto com React, Electron e SQLite, além de ter realizado um minicurso em automação com n8n. Sou fluente em inglês e tenho noções de italiano e espanhol. Busco oportunidades de estágio para aplicar meus conhecimentos em projetos inovadores e contribuir com soluções de impacto.
