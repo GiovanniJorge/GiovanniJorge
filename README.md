@@ -22,7 +22,7 @@ Me chamo Giovanni, tenho 19 anos e sou descendente de italianos, com dupla cidad
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
-  <img src="https://img.shields.io/badge/CSS3-187abf?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-187abf?style=for-the-badge&logo=css&logoColor=white">
 
   <img src="https://img.shields.io/badge/TypeScript-0078d1?style=for-the-badge&logo=typescript&logoColor=white">
 
