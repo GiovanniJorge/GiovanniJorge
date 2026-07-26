@@ -46,7 +46,7 @@ Me chamo Giovanni, tenho 19 anos e sou descendente de italianos, com dupla cidad
 ## Estatísticas
 
 <p align="center">
-  <img src="./profile/stats.svg" height="200" />
+  <img src="./profile/stats.svg1" height="200" />
   &nbsp;&nbsp;
   <img src="./profile/top-langs.svg" height="200" />
 </p>
